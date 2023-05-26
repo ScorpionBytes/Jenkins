@@ -48,7 +48,7 @@
     "webpack-remove-empty-scripts": "1.0.1"
   },
   "dependencies": {
-    "@babel/preset-env": "7.20.2",
+    "@babel/preset-env": "7.21.5",
     "babel-loader": "9.1.2",
     "bootstrap": "3.4.1",
     "hotkeys-js": "3.10.1",
