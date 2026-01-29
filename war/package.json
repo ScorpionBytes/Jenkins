@@ -54,7 +54,7 @@
     "hotkeys-js": "3.10.1",
     "jenkins-js-modules": "1.5.4",
     "jquery": "3.6.3",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "postcss-less": "6.0.0",
     "sortablejs": "1.15.0",
     "stylelint-checkstyle-reporter": "0.2.0",
